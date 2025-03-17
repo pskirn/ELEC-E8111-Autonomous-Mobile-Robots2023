@@ -1,1 +1,3 @@
-# ELEC-E8111---Autonomous-Mobile-Robots
+# ReadMe
+
+Assignments for Autonomous Mobile Robots - Aalto University.

@@ -1,3 +1,7 @@
 # ReadMe
 
-Assignments for Autonomous Mobile Robots - Aalto University.
+Aalto University
+
+ Autonomous Mobile Robots - 2023
+
+ Assignments uploaded

@@ -2,6 +2,6 @@
 
 Aalto University
 
- Autonomous Mobile Robots - 2023
+ Autonomous Mobile Robots - 2024
 
  Assignments uploaded
